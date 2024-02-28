@@ -4,13 +4,7 @@
 
 - **Start Date:** 10 October 2200Hrs
 - **End Date:** 24 October 2359Hrs (NO extension due to the nature of the project)
-
-### Learning Objectives
-
-- Time series analysis and application of ML models
-- CI/CD considerations
-- Portfolio building
-- Economic indicators (inclusion is welcome but not compulsory)
+- [Kaggle link](https://www.kaggle.com/competitions/fintech-project-1)
 
 ### Task
 
