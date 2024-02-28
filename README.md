@@ -20,24 +20,12 @@ Predict the closing stock price of NASDAQ: NVDA for trading days from 25 October
 
 - Historical price of NVDA: [Yahoo Finance NVDA](https://finance.yahoo.com/quote/NVDA/history?p=NVDA)
 
-### Basic Expectations
-
-- Good coding practices (documentation etc)
-- Explanation on the data sources used
-
 ### Implementation 1: Machine Learning Models
-
-- Jupyter Notebook or PDF should include:
-  - Why a particular model was chosen
-  - Example of ML Models: SVM, Deep Learning, LSTM, etc.
 
   **Code:**
   - [LSTM_model.ipynb](https://github.com/pangyyen/FinTech-ay2324-project1/blob/master/Gan_Pang_Yen_Impl_1.ipynb)
 
 ### Implementation 2: ARIMA Models
-
-- Jupyter Notebook or PDF should include:
-  - Why a particular ARIMA model (p, d, q) was chosen over others
 
   **Code:**
   - [ARIMA_Model.ipynb](https://github.com/pangyyen/FinTech-ay2324-project1/blob/master/Gan_Pang_Yen_Impl_1.ipynb)
